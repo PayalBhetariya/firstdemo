@@ -1,0 +1,21 @@
+.container{
+    width: 800px;
+    background-color: whitesmoke;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+input{
+    margin: 10px;
+    padding: 5px;
+    width: 90%;
+}
+.btnrow{
+    margin: 10px;
+}
+.btnrow button{
+    width: 20%;
+    margin: 10px;
+}
